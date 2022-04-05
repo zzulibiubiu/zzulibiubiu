@@ -1,11 +1,9 @@
 ### Hi there 👋
 
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hello🤠&text2=💖%20Open%20Source&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=zzulibiubiu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=radical&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzulibiubiu&hide_title=true&hide_border=true&layout=compact&theme=radical&locale=cn" />
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzulibiubiu&theme=radical&show_icons=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=zzulibiubiu&layout=compact&theme=radical&langs_count=10)|
-|-|-|
 
 ![](https://activity-graph.herokuapp.com/graph?username=zzulibiubiu&theme=redical)
 
